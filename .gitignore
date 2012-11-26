@@ -2,3 +2,6 @@
 .DS_Store
 *.class
 *.jar
+7za.*
+ffmpeg.*
+*.exe
