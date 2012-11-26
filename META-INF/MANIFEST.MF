@@ -1,5 +1,0 @@
-Manifest-Version: 2.3
-Main-Class: BeamerCompanion
-Class-Path: BeamerCompanion.jar
-Name: "Beamer Companion"
-Created-By: "Michael Barchy <michael@barchy.be>"
